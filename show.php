@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <?php 
+<?php 
     $prefix = $_POST["prefix"];
     $name = $_POST["name"];
     $age = $_POST["age"];
@@ -14,7 +14,7 @@
     echo "Gender:".$gender."<br>";
     echo "Status:".$status."<br>";
 
-    ?>
+?>
 
 </body>
 

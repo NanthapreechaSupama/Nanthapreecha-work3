@@ -4,7 +4,7 @@
 <body>
     <form action ="show.php" method="POST" > 
 
-    <select name="prefix">
+    <select name="prefix" >
         <option value="">-เลือก-</option>
         <option value="ดช.">-ดช.-</option>
         <option value="ดญ.">-ดญ.-</option>
